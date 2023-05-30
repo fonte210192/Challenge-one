@@ -1,2 +1,3 @@
-# Challenge-ONE-Sprint-01-alura
-primer proyecto de encriptador de texto hecho con Html, css y Javascript parte del  challenge de alura Latam
+# Challenge ONE Sprint 01:
+Challenge ONE Sprint 01:
+Construye un encriptador de texto con Javascript
